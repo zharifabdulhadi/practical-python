@@ -1,5 +1,4 @@
 # mortgage.py
-#HELLO ERICA
 # Exercise 1.7
 
 ### Exercise 1.8: Extra payments
