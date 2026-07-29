@@ -1,5 +1,5 @@
 # mortgage.py
-#
+#HELLO ERICA
 # Exercise 1.7
 
 ### Exercise 1.8: Extra payments
@@ -22,6 +22,12 @@
 
 # How much will Dave pay if he pays an extra $1000/month for 4 years starting after the first
 # five years have already been paid?
+
+### Exercise 1.10: Making a table
+
+# Modify the program to print out a table showing the month, total paid so far, and the remaining principal.
+# The output should look something like this:
+
 
 principal = 500000.0
 rate = 0.05
