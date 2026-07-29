@@ -54,7 +54,7 @@ installation of Python 3.6 or newer and time to work on it.
 ## What This Course is Not
 
 This is not a course for absolute beginners on how to program a
-computer.  It is assumed that you already have programming experience
+computer.  It is assumed that you already have programming experiene
 in some other programming language or Python itself.
 
 This is not a course on web development.  That's a different
